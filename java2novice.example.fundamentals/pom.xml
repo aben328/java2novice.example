@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>java2novice.example</groupId>
+    <artifactId>java2novice.example</artifactId>
+    <version>1.0</version>
+  </parent>
+  <artifactId>java2novice.example.fundamentals</artifactId>
+  <description>Java Fundamentals
+
+Description:
+Here we are trying to give examples for java fundamentals like data types, java variables, static variables, static methods, static blocks, arrays, enum, wrapper classes, etc.
+
+- See more at: http://java2novice.com/java-fundamentals/#sthash.2BEcWazi.dpuf</description>
+</project>
